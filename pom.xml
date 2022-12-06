@@ -75,8 +75,12 @@
 		</plugins>
 	</build>
 	<scm>
-		<developerConnection>scm:git:git@github.com:sickiiara/SFGpetClinicExample.git</developerConnection>
-		<tag>sfg-pet-clinic-0.0.2</tag>
+		<connection>scm:git:ssh://git@github.com:sickiiara/SFGpetClinicExample.git</connection>
+		<developerConnection>
+			scm:git:git@github.com:sickiiara/SFGpetClinicExample.git
+		</developerConnection>
+		<url>https://github.com/sickiiara/SFGpetClinicExample.git</url>
+		<tag>HEAD</tag>
 	</scm>
 
 </project>
