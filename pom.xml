@@ -45,5 +45,10 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<connection>scm:svn:https://github.com/sickiiara/SFGpetClinicExample.git</connection>
+		<developerConnection>scm:svn:https://github.com/sickiiara/SFGpetClinicExample.git</developerConnection>
+		<url>https://SFGpetClinicExample.com/view.cgi</url>
+	</scm>
 
 </project>
